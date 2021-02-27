@@ -1,0 +1,4 @@
+name: NoDamagePlugin
+version: ${project.version}
+main: net.kunmc.lab.nodamageplugin.NoDamagePlugin
+api-version: 1.15
